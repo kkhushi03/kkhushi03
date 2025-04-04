@@ -1,5 +1,8 @@
 ## Heyaaaa 👋
 
+- 🌱 I’m currently learning: Artificial Intelligence, Machine learning, NLP, Deep Learning, Data analysis and visualisation, TensorFlow, GenAI, LangChain, OpenCV, Keras, PyTorch
+- ⚡ Fun fact: You can't win in a test-typing race with me 😄
+
 <!--
 
 - 🔭 I’m currently working on ...
