@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning: Artificial Intelligence, Machine learning, NLP, Deep Learning, Data analysis and visualisation, TensorFlow, GenAI, LangChain, OpenCV, Keras, PyTorch
 - ⚡ Fun fact: You can't win in a test-typing race with me 😄
 
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kkhushi03&show_icons=true&theme=dark)
+
+
 <!--
 
 - 🔭 I’m currently working on ...
