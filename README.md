@@ -1,6 +1,6 @@
-## Heyaaaa 👋
+## Heyaaaa 👋 I'm glad you're hereeeeee =)
 
-- 🌱 I’m currently learning: Artificial Intelligence, Machine learning, NLP, Deep Learning, Data analysis and visualisation, TensorFlow, GenAI, LangChain, OpenCV, Keras, PyTorch
+- 🌱 I’m currently figuring out life; other than that, I'm learning AI, Machine learning, NLP, Deep Learning, Data analysis and visualisation, TensorFlow, GenAI, LangChain, OpenCV, Keras, PyTorch, etc
 - ⚡ Fun fact: You can't win in a test-typing race with me😄
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
