@@ -9,12 +9,11 @@ What I've been working with:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-My Socials:
+Khusiya on other platforms: 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/khusiyaaaa)
-[![Instagram](https://img.shields.io/badge/Instagram-%40kkhushisaid-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/kkhushisaid)
-
+ [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/khusiyaaaa)
+ [![Gmail](https://img.shields.io/badge/Gmail-your.email%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
 
 <!--
 
