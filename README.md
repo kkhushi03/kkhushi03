@@ -1,6 +1,7 @@
-## Heyaaaa 👋 I'm glad you're hereeeeee =)
+## Heyaaaa 👋 I'm Khushi Sharma =))
 
-- 🔭 I’m currently working on Machine Learning and Deep learning projects
+- 🎓 Final-year Information Technology student at GGSIPU
+- 🔭 I’m currently working on **Machine Learning** and **Deep learning** projects
 - 🌱 I’m currently figuring out life; other than that, I'm learning AI, Machine learning, NLP, Deep Learning, Data analysis and visualisation, TensorFlow, GenAI, LangChain, OpenCV, Keras, PyTorch, etc
 - ⚡ Fun fact: You can't win in a test-typing race with me😄
 
@@ -9,8 +10,10 @@ What I've been working with:
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 My Socials:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/khusiyaaaa)
+[![Instagram](https://img.shields.io/badge/Instagram-%40kkhushisaid-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/kkhushisaid)
 
 
 <!--
