@@ -13,7 +13,7 @@ Khusiya on other platforms:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)
  [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/khusiyaaaa)
- [![Gmail](https://img.shields.io/badge/Gmail-khushisharma5752%gmail.com%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:khushisharma5752@gmail.com)
+ [![Gmail](https://img.shields.io/badge/Gmail-your.email%gmail.com%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:khushisharma5752@gmail.com)
 
 <!--
 
