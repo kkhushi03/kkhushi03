@@ -1,12 +1,16 @@
 ## Heyaaaa 👋 I'm glad you're hereeeeee =)
 
+- 🔭 I’m currently working on Machine Learning and Deep learning projects
 - 🌱 I’m currently figuring out life; other than that, I'm learning AI, Machine learning, NLP, Deep Learning, Data analysis and visualisation, TensorFlow, GenAI, LangChain, OpenCV, Keras, PyTorch, etc
 - ⚡ Fun fact: You can't win in a test-typing race with me😄
 
+What I've been working with:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
+My Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)
+[![X](https://img.shields.io/badge/X-0077B5?style=for-the-badge&logo=X&logoColor=white)](https://www.x.com/in/your-profile/)
 
 
 <!--
