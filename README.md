@@ -10,7 +10,7 @@ What I've been working with:
 
 My Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)
-[![X](https://img.shields.io/badge/X-0077B5?style=for-the-badge&logo=X&logoColor=white)](https://www.x.com/in/your-profile/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/khusiyaaaa)
 
 
 <!--
