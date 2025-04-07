@@ -2,6 +2,7 @@
 
 - 🎓 Final-year Information Technology student at GGSIPU
 - 🔭 I’m currently working on **Machine Learning** and **Deep learning** projects
+- 👯 I’m looking to collaborate on research and other projects
 - 🌱 I’m trying to figure out life along with learning AI, Machine learning, NLP, Deep Learning, Data analysis and visualisation, TensorFlow, GenAI, LangChain, OpenCV, Keras, PyTorch, etc
 - ⚡ Fun fact: You can't win in a test-typing race with me😄
 
@@ -25,7 +26,7 @@ What I've been working with:
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 
-Khusiya on other platforms: 
+Meet me on other platforms =)) 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/khusiyaaaa)
