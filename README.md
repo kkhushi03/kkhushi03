@@ -1,10 +1,10 @@
 ## Heyaaaa 👋 I'm Khushi Sharma =))
 
-- 🎓 Final-year Information Technology student at GGSIPU
-- 🔭 I’m currently working on **Machine Learning** and **Deep learning** projects
-- 👯 I’m looking to collaborate on research and other projects
-- 🌱 I’m trying to figure out life along with learning AI, Machine learning, NLP, Deep Learning, Data analysis and visualisation, TensorFlow, GenAI, LangChain, OpenCV, Keras, PyTorch, etc
-- ⚡ Fun fact: You can't win in a test-typing race with me😄
+🎓 Final-year Information Technology student at GGSIPU
+🔭 I’m currently working on **Machine Learning** and **Deep learning** projects
+👯 I’m looking to collaborate on research and other projects
+🌱 I’m trying to figure out life along with learning AI, Machine learning, Deep Learning, GenAI, etc
+⚡ Fun fact: You can't win in a test-typing race with me😄
 
 What I've been working with:
 
