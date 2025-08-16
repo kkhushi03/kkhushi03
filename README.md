@@ -2,11 +2,11 @@
 
 🎓 Final-year Information Technology student at GGSIPU
 
-🔭 I’m currently working on **Machine Learning** and **Deep learning** projects
+🔭 I’m currently working on **Machine Learning** and **GenAI** projects
 
-👯 I’m looking to collaborate on research and other projects
+👯 I’m looking to collaborate on research projects
 
-🌱 I’m trying to figure out life along with learning AI, Machine learning, Deep Learning, GenAI, etc
+🌱 I’m trying to figure out AI, Machine learning, Deep Learning, GenAI, etc
 
 ⚡ Fun fact: You can't win in a test-typing race with me😄
 
