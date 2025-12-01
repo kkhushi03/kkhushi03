@@ -1,6 +1,6 @@
 ## Heyaaaa 👋 I'm Khushi Sharma =))
 
-🎓 Final-year Information Technology student at GGSIPU
+💻 Associate Analyst at United Airlines
 
 🔭 I’m currently working on **Machine Learning** and **GenAI** projects
 
