@@ -32,7 +32,7 @@ What I've been working with:
 
 Meet me on other platforms =)) 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushi-sharma5752/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/khusiyaaaa)
 [![Gmail](https://img.shields.io/badge/Gmail-khushisharma5752%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:khushisharma5752@gmail.com)
 
