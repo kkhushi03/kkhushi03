@@ -1,4 +1,4 @@
-## Heyaaaa 👋 I'm Khushi Sharma =))
+## Heyaaaa 👋
 
 💻 Associate Analyst at United Airlines
 
