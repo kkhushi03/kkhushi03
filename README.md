@@ -1,14 +1,12 @@
 ## Heyaaaa 👋
 
-💻 Associate Analyst at United Airlines
+💻 I'm working as an Associate Data Analyst at United Airlines
 
 🔭 I’m currently working on **Machine Learning** and **GenAI** projects
 
 👯 I’m looking to collaborate on research projects
 
-🌱 I’m trying to figure out AI, Machine learning, Deep Learning, GenAI, etc
-
-⚡ Fun fact: You can't win in a test-typing race with me😄
+⚡ Fun fact: You can't win in a test-typing race with me😄 (my record is 108 wpm xddd)
 
 What I've been working with:
 
